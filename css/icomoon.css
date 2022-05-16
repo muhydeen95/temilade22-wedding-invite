@@ -55,7 +55,7 @@
   content: "\e009";
 }
 .icon-image:before {
-  content: "\e010";
+  content: "\1F6CF";
 }
 .icon-signal:before {
   content: "\e011";
@@ -79,7 +79,7 @@
   content: "\e017";
 }
 .icon-video:before {
-  content: "\e018";
+  content: "\1F372";
 }
 .icon-disc:before {
   content: "\e019";
@@ -778,7 +778,7 @@
   content: "\e978";
 }
 .icon-calendar:before {
-  content: "\e979";
+  content: "\1F944";
 }
 .icon-camera2:before {
   content: "\e97a";
@@ -1354,7 +1354,7 @@
   content: "\ea38";
 }
 .icon-video2:before {
-  content: "\ea39";
+  content: "\1F372";
 }
 .icon-vinyl:before {
   content: "\ea3a";
