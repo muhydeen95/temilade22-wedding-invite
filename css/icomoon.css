@@ -778,6 +778,9 @@
   content: "\e978";
 }
 .icon-calendar:before {
+  content: "\e979";
+}
+.icon-caterer:before {
   content: "\1F944";
 }
 .icon-camera2:before {
