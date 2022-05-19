@@ -1841,7 +1841,7 @@ form label {
 }
 
 /*# sourceMappingURL=style.css.map */
-ul li {
+.event-list li {
   list-style-type: none;
   color: #fff;
 }
