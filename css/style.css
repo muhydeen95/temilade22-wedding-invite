@@ -1841,3 +1841,7 @@ form label {
 }
 
 /*# sourceMappingURL=style.css.map */
+ul li {
+  list-style-type: none;
+  color: #fff;
+}
